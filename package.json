@@ -1,0 +1,29 @@
+{
+  "name": "fe-knowledge-points",
+  "description": "记录前端相关知识点",
+  "version": "0.0.1",
+  "scripts": {
+    "next:dev": "next dev",
+    "next:build": "next build",
+    "next:start": "next start",
+    "lint": "next lint",
+    "dev": "docz dev",
+    "build": "docz build --dest docs"
+  },
+  "keywords": [
+    "前端",
+    "前端知识点"
+  ],
+  "author": "比诺",
+  "homepage": "https://robint-liu.github.io/fe-knowledge-points",
+  "dependencies": {
+    "docz": "^2.3.1",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.30.0",
+    "eslint-config-next": "11.0.1"
+  }
+}
