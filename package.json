@@ -8,7 +8,7 @@
     "next:start": "next start",
     "lint": "next lint",
     "dev": "docz dev",
-    "build": "docz build --dest docs"
+    "build": "docz build"
   },
   "keywords": [
     "前端",
